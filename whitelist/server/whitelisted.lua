@@ -1,7 +1,7 @@
 -- Configurações
 Config = {
-    Token = 'MTI3MTA5NTA4MzYyOTkzNjY0Mg.GN0XuJ.a9PvuXaQjwtKC-xUtFiWxzIftkNKvtfhvjqVoM',  -- Token do bot
-    ChannelID = '1270908445419110561',  -- ID do canal onde a mensagem será enviada
+    Token = '',  -- Token do bot
+    ChannelID = '',  -- ID do canal onde a mensagem será enviada
     ServerName = 'Sacomã City',  -- NOME DO SERVIDOR
     EmbedColor = 2303786,
     WebhookIcon = 'https://cdn.discordapp.com/attachments/1247383661167509602/1272634376101822464/frame.png?ex=66c2481f&is=66c0f69f&hm=97bb609e52d9a81a80e656526998b109709c985c53ad5655b6fb23cf005274ba&'  -- imagem da logo
